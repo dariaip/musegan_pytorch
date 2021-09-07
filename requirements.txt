@@ -1,0 +1,6 @@
+gdown==3.6.4
+livelossplot==0.5.4
+matplotlib==3.2.2
+pypianoroll==1.0.4
+torch==1.9.0
+tqdm==4.62.0
