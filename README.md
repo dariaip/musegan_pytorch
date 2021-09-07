@@ -10,4 +10,5 @@ How to use it:
 3. Launch the code.
 
 During training it saves intermediate results at ".mid" files, so you can easily download it and listen to generated music.
-I also applied an example of generated music that I've got using the trained model.
+
+I also uploaded an example of generated music that I've got using the trained model.
